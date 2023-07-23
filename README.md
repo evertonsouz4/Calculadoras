@@ -1,2 +1,2 @@
 # calculadora-C
-Calculadora simples utilizando a linguagem de programação C++
+Calculadoras simples utilizando a linguagem de programação C++
