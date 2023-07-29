@@ -21,7 +21,7 @@ int main(){
     }
     else{
         cout<<"\n"<<n1<<", "<<n2<<" e "<<n3 
-            <<" Não podem formar um triangulo com reto!!!" << "\n";    
+        <<" Não podem formar um triangulo com reto!!!" << "\n";    
     }
 
     return 0;
