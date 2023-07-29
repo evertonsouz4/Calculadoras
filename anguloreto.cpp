@@ -17,11 +17,11 @@ int main(){
        quadrado(n2) + quadrado(n3) == quadrado(n1) ||
        quadrado(n3) + quadrado(n1) == quadrado(n2)) ){
         cout<<"\n"<<n1 << ", " << n2 << " e " << n3 
-            <<" Podem formar um triangulo reto!!!" << "\n";
+            <<" Podem formar um triangulo com reto!!!" << "\n";
     }
     else{
         cout<<"\n"<<n1<<", "<<n2<<" e "<<n3 
-            <<" Não podem formar um triangulo reto!!!" << "\n";    
+            <<" Não podem formar um triangulo com reto!!!" << "\n";    
     }
 
     return 0;
