@@ -5,13 +5,15 @@ int main() {
     int opc, cal, num_1, num_2;
 
     while (opc != 5) {
-        cout << "CALCULADORA\n\n"
+        cout << "\n## CALCULADORA ##\n"
+             << "-----------------\n"
              << "1 - Soma\n"
              << "2 - subtracao\n"
              << "3 - multiplicacao\n"
              << "4 - Divisao\n"
-             << "5 - Sair\n\n"
-             << "Digite uma opcao (1/2/3/4/5): ";
+             << "5 - Sair\n"
+             << "-----------------\n"
+             << "Digite uma opcao (1 /2 /3 /4 /5): ";
         cin >> opc;
 
         if (opc == 1) {
