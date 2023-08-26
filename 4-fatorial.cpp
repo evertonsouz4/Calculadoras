@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
          << "--------------\n";
     cout << "Digite um numero: ";
     cin >> numero;
-    cout << "A fatorial de " << numero << " = " << fatorial(numero);
+    cout << "A fatorial de " << numero << "! = " << fatorial(numero);
     return 0;
 }
 
